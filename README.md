@@ -2,17 +2,17 @@
 
 ## Blob and Color Detection
 
-- Folder contains script to detect the traffic blobs (circles) and the color to determine the state of the traffic light.
+- Script to detect the traffic blobs (circles) and the color to determine the state of the traffic light.
 
 ## Inference
 
-- Folder contains inference script, detection models, and results on test set.
+- Inference script, detection models, and results on test set.
 
 ## SSD-MobileNet
 
-- Folder contains repo to implement SSD (Single Shot MultiBox Detector) in PyTorch for object detection, using MobileNet backbones.
+- Repo to implement SSD (Single Shot MultiBox Detector) in PyTorch for object detection, using MobileNet backbones.
 
 ## VOC
 
-- Folder contains script to generate VOC annotations and the corresponding dataset generated in the process.
+- Script to generate VOC annotations and the corresponding dataset generated in the process.
 
