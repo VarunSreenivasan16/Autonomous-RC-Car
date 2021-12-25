@@ -1,0 +1,19 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>color116_0.png </filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>stoplight</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1026</xmin>
+      <ymin>557</ymin>
+      <xmax>1046</xmax>
+      <ymax>591</ymax>
+    </bndbox>
+  </object>
+</annotation>
